@@ -1,1 +1,10 @@
-"html"
+body {
+    border-radius: 10px;
+    background: white;
+
+}
+
+.brand {
+    width: 300px;
+    height: 300px;
+}
